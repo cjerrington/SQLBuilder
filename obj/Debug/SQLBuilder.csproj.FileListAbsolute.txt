@@ -1,0 +1,14 @@
+C:\Users\clayton.errington\source\repos\SQLBuilder\bin\Debug\SQLBuilder.exe.config
+C:\Users\clayton.errington\source\repos\SQLBuilder\bin\Debug\SQLBuilder.exe
+C:\Users\clayton.errington\source\repos\SQLBuilder\bin\Debug\SQLBuilder.pdb
+C:\Users\clayton.errington\source\repos\SQLBuilder\obj\Debug\MainWindow.g.cs
+C:\Users\clayton.errington\source\repos\SQLBuilder\obj\Debug\App.g.cs
+C:\Users\clayton.errington\source\repos\SQLBuilder\obj\Debug\SQLBuilder_MarkupCompile.cache
+C:\Users\clayton.errington\source\repos\SQLBuilder\obj\Debug\SQLBuilder_MarkupCompile.lref
+C:\Users\clayton.errington\source\repos\SQLBuilder\obj\Debug\MainWindow.baml
+C:\Users\clayton.errington\source\repos\SQLBuilder\obj\Debug\SQLBuilder.g.resources
+C:\Users\clayton.errington\source\repos\SQLBuilder\obj\Debug\SQLBuilder.Properties.Resources.resources
+C:\Users\clayton.errington\source\repos\SQLBuilder\obj\Debug\SQLBuilder.csproj.GenerateResource.cache
+C:\Users\clayton.errington\source\repos\SQLBuilder\obj\Debug\SQLBuilder.exe
+C:\Users\clayton.errington\source\repos\SQLBuilder\obj\Debug\SQLBuilder.pdb
+C:\Users\clayton.errington\source\repos\SQLBuilder\obj\Debug\SQLBuilder.csprojAssemblyReference.cache
